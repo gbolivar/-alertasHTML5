@@ -1,4 +1,4 @@
-class Notificacion{
+ class Notificacion{
 	/**
 	 * Methos encargado de proceder ha enviar mensaje de alerta desde el apis de HTML5
 	 * @param msj String, Mensaje del cual vamos a proceder a implementar
@@ -26,7 +26,7 @@ class Notificacion{
             setTimeout( function() { noti.close() }, 10000)
             var audio = new Audio('alert.mp3');
       audio.play();
-        }
+         colegio y high school}
     }
 
 
